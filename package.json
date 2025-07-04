@@ -1,0 +1,23 @@
+{
+  "name": "stupid-editor",
+  "version": "1.0.0",
+  "description": "The most stupid editor ever.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/nninnnin/stupid-editor.git"
+  },
+  "keywords": [
+    "editor",
+    "wysiwyg"
+  ],
+  "author": "Justin Lee",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/nninnnin/stupid-editor/issues"
+  },
+  "homepage": "https://github.com/nninnnin/stupid-editor#readme"
+}
